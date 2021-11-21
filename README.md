@@ -1,4 +1,4 @@
-# Alicias-Dice
+# Dice
 
 ## A six sided dice
 
